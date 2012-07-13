@@ -1,0 +1,5 @@
+verilog signed input test
+1.complie the verilog file with iverilog and run the appliction in vvp
+2.complie the verilog file in quartus and download the sof file into real
+hardware then run it with signalTapII
+3.SIG.bmp is the Screenshot of the signalTapII
